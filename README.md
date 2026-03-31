@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm nithu</h1>
-<h3 align="center">Srilanka</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+description : this is a code which helps to manage a inventory system easily
+there will be some options will be shown some options
+we need to select one of them
+then according to the number the function will work
+sample output :
+1. Add item
+2. Remove item
+3. Update quantity
+4. Search item by ID
+5. Search item by name
+6. Display all items
+7. Exit
+Choose an option: Here we need to select a number between 1 to 7.
